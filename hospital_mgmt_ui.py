@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Sanskruti@07",
+    "password": "your_password",
     "database": "hospital_db"
 }
 OFFICIAL_FILE = "official_account.json"
